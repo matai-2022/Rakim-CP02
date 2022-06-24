@@ -1,0 +1,24 @@
+{
+  "name": "rakim-cp02",
+  "version": "1.0.0",
+  "description": "CP02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakim-up/Rakim-CP02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakim-up/Rakim-CP02/issues"
+  },
+  "homepage": "https://github.com/rakim-up/Rakim-CP02#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
